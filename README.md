@@ -1,8 +1,6 @@
 # Anil Portfolio Site
 
-This is a simple static portfolio page inspired by the structure of:
 
-- [https://anilbatra2185.github.io/](https://anilbatra2185.github.io/)
 
 It uses content inferred from:
 
